@@ -1,0 +1,1 @@
+scoreboard players remove @s[tag=!tired,tag=!climbing.climbing,predicate=rpg:sprinting] rpg.stamina 200
